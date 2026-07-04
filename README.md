@@ -6,7 +6,7 @@ Topics covered: SELECT, WHERE, JOINs, Aggregates, Expressions, NULL handling
 
 ## Python
 - Python (Pandas, NumPy) (July 2026)
-- Topics covered: Titanic dataset analysis — survival rates by gender and class
+- Topics covered: Titanic dataset analysis — survival rates by gender, class and age
 
 ## Next
 - Power BI
